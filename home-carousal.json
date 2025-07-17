@@ -1,0 +1,25 @@
+[
+    {
+        "title": "email\nbreach check",
+        "category": "PRIVACY / SECURITY    INDUSTRY CYBERSECURITY",
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1682309526815-efe5d6225117?q=80&w=1512&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "buttonText": "BUY PRO",
+        "buttonUrl": "https://plus.unsplash.com/premium_photo-1682309526815-efe5d6225117?q=80&w=1512&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "real-time\nalerts",
+        "category": "THREAT MONITORING / NOTIFICATIONS    INDUSTRY PERSONAL SAFETY",
+        "imageUrl": "https://media.istockphoto.com/id/1923898010/photo/woman-hand-using-mobile-smartphone-receive-new-message-and-99-new-email-alert-sign-icon-pop-up.jpg?s=612x612&w=0&k=20&c=z7rdOUoiYcQTSa8kpSIeTAHGoaAwoLuh-3FDRS94e9s="
+     },
+    {
+        "title": "track\nyour exposure",
+        "category": "DATA LEAKS / DARK WEB    INDUSTRY DIGITAL IDENTITY",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/57f96248d482e9a19e507a7e/1602986856429-NXO6O0FJDJJM2L4OC255/_DSC3413.jpg"
+    },
+    {
+        "title": "privacy\nmade simple",
+        "category": "TRUST / USER-FIRST DESIGN    INDUSTRY MOBILE APP",
+        "imageUrl": "https://www.ipvanish.com/wp-content/uploads/2022/06/social-media-privacy-issues_IPV-blog.png"
+    }
+    
+]
